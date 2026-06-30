@@ -126,7 +126,7 @@ This work is based on recent research in diffusion models and deep learning for 
 
 **Wazul Khan**
 
-BSc MSC
+B.Sc M.Sc, Assistant Professor RCERT
 
 ---
 
