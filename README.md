@@ -124,10 +124,9 @@ This work is based on recent research in diffusion models and deep learning for 
 
 ## Author
 
-**Dev Wankhede**
+**Wazul Khan**
 
-M.Tech in Robotics and Artificial Intelligence
-Indian Institute of Technology Guwahati
+BSc MSC
 
 ---
 
